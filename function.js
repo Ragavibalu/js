@@ -18,7 +18,8 @@ function fun(a,b)
         }
         else{
 
-        }console.log("The number "+i+" is odd")
+        console.log("The number "+i+" is odd")
+        }
     }
 }
 fun(5,10)

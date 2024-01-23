@@ -30,7 +30,7 @@ for(var i=0;i<5;i++)
 {
     console.log(i+11)
 }
-console.log(i)*/
+console.log(i)
  
 //block scope
 
@@ -43,4 +43,5 @@ let a=5;
 console.log(a)//5
 console.log(b)//5
 }
-console.log(a)
+console.log(a)*/
+
